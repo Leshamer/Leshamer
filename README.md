@@ -3,6 +3,7 @@
 <h4>I'm Aleksei, Front-end developer 💻</h4>
 
 ### 🛠 &nbsp;Tech Stack
+[![My Skills](https://skills.thijs.gg/icons?i=js,html,css,scss,mysql,git,figma,c,py)](https://skills.thijs.gg)
 
 
 <h4>The most interesting of my projects:</h4>
