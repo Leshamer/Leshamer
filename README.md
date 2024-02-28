@@ -3,7 +3,7 @@
 <h4>I'm Aleksei, Front-end developer 💻</h4>
 
 ### 🛠 &nbsp;Tech Stack
-[![My Skills](https://skills.thijs.gg/icons?i=react,native,next,git,js,html,css,scss,tailwind,mysql,figma,c,py)](https://skills.thijs.gg)
+[![My Skills](https://skills.thijs.gg/icons?i=react,next,git,js,html,css,scss,tailwind,mysql,figma,c,py)](https://skills.thijs.gg)
 
 
 <h4>The most interesting of my projects:</h4>
@@ -16,6 +16,7 @@
     <li><a href="https://github.com/Leshamer/smoogle.github.io" >Shmoogle</a></li>
     <i>Layout of a simple search box</i>
   </ul>
+
 
 ## Connect with me:
 <p align="left">
