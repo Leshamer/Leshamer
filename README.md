@@ -3,12 +3,14 @@
 <h4>I'm Aleksei, Front-end developer 💻</h4>
 
 ### 🛠 &nbsp;Tech Stack
-[![My Skills](https://skills.thijs.gg/icons?i=react,next,git,js,html,css,scss,tailwind,mysql,figma,c,py)](https://skills.thijs.gg)
+[![My Skills](https://skills.thijs.gg/icons?i=react,next,git,js,html,css,scss,tailwind,mysql,figma,c,py)]
 
 
 <h4>The most interesting of my projects:</h4>
  
   <ul>
+    <li><a htref="https://leshamer.github.io/ForHorseForYandex.github.io/>The 4 Horse Club</a></li>
+    <i>One of the examples of landing page websites for one of the companies</i>
     <li><a href="https://admediacards.com/">AdMediaCards</a></li>
     <i>Commercial development of a marketing website</i>
     <li><a href="https://leshamer.github.io/WaterTime.github.io/">WaterTime</a></li>
