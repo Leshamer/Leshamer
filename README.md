@@ -9,11 +9,11 @@
 <h4>The most interesting of my projects:</h4>
  
   <ul>
-    <li><a htref="https://leshamer.github.io/ForHorseForYandex.github.io/>The 4 Horse Club</a></li>
+    <li><a href="https://leshamer.github.io/ForHorseForYandex.github.io">The 4 Horse Club</a></li>
     <i>One of the examples of landing page websites for one of the companies</i>
     <li><a href="https://admediacards.com/">AdMediaCards</a></li>
     <i>Commercial development of a marketing website</i>
-    <li><a href="https://leshamer.github.io/WaterTime.github.io/">WaterTime</a></li>
+    <li><a href="https://leshamer.github.io/WaterTime.github.io">WaterTime</a></li>
     <i>An application that allows you to monitor water balance</i> 
     <li><a href="https://github.com/Leshamer/smoogle.github.io" >Shmoogle</a></li>
     <i>Layout of a simple search box</i>
