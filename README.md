@@ -3,24 +3,7 @@
 <h4>I'm Aleksei, Front-end developer 💻</h4>
 
 ### 🛠 &nbsp;Tech Stack
-[![My Skills](https://skillicons.dev/icons?i=react,next,git,js,html,css,scss,tailwind,mysql,figma,c,cpp,py)](https://skillicons.dev)
-
-
-<h4>The most interesting of my projects:</h4>
- 
-  <ul>
-   <li><a href="https://github.com/Leshamer/juztTask.github.io.git">Juzt Cars</a></li>
-    <i>A simple version of a web application with its own API and handling. Minimal styling, with most of the focus on functionality.</i>
-    <li><a href="https://leshamer.github.io/ForHorseForYandex.github.io">The 4 Horse Club</a></li>
-    <i>One of the examples of landing page websites for one of the companies</i>
-    <li><a href="https://admediacards.com/">AdMediaCards</a></li>
-    <i>Commercial development of a marketing website</i>
-    <li><a href="https://leshamer.github.io/WaterTime.github.io">WaterTime</a></li>
-    <i>An application that allows you to monitor water balance</i> 
-    <li><a href="https://github.com/Leshamer/smoogle.github.io" >Shmoogle</a></li>
-    <i>Layout of a simple search box</i>
-  </ul>
-
+[![My Skills](https://skillicons.dev/icons?i=react,php,next,git,js,html,css,scss,tailwind,mysql,figma,c,cpp,py)](https://skillicons.dev)
 
 ## Connect with me:
 <p align="left">
