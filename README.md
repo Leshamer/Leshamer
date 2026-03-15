@@ -8,4 +8,3 @@
 ## Connect with me:
 <p align="left">
 <a href = "https://www.linkedin.com/in/aleksei-maslov-538a88272/?locale=en_US"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
-<a href = "https://instagram.com/_maslenok.jija_"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
